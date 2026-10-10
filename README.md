@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 Hi, I'm **Zyad Al-Astal**, a **Software Engineer specializing in Backend Engineering** from Gaza, Palestine.
 
